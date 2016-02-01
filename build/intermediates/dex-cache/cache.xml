@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/joye/develop/android/workspace/CustomerImageLoaderTest/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="93d63cc043129ad11b437659b3f77ca7e52ae54f">
+        <dex dex="/Users/joye/develop/android/workspace/CustomerImageLoaderTest/app/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_fd4143a22aa4b2fb3dad1879cb91b0a9a85f1502/classes.dex" />
+    </item>
+
+</items>
